@@ -8,7 +8,7 @@ Objetivo: construir interfaces con estándar de trabajo real (no “pantallas bo
 - Integrar TailwindCSS como herramienta de productividad (sin perder fundamentos).
 - Publicar retos con documentación y evidencia (capturas y demo cuando aplique).
 
-## 🧭 Contexto
+## 🧭 Roadmap relacionado
 Este repositorio cubre práctica de UI/maquetación dentro del roadmap frontend (Tailwind + BigDevSoon).
 
 ## 🔗 Recurso principal
@@ -51,4 +51,5 @@ Ejemplo típico (si se usa Vite):
   ```bash
   npm install
   npm run dev
+
 
